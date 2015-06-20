@@ -2,7 +2,7 @@
 "use strict";
 //********************************Class Declarations********************************
 
-function AirlineProgram(){  console.log('FinalProject');  };
+function AirlineProgram(){  console.log('Demo');  };
 
 //Passenger Class
 var Passenger = {
